@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "",
-    "baseUrl": ""
+    "url": "git+https://github.com/xiaoxinda/react-native-vod-upload.git",
+    "baseUrl": "https://github.com/xiaoxinda/react-native-vod-upload"
   },
   "keywords": [
     "react-native",
